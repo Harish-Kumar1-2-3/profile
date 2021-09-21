@@ -1,0 +1,108 @@
+body{
+  font-size: 30px;
+  margin: 0;
+  text-align: center;
+  font-family:serif;
+  font-family: 'Scheherazade New', serif;
+}
+.name{
+  background-color:#C1FFD7;
+  position: relative;
+  padding-top: 20px;
+}
+
+h1{
+  color: #4B3869;
+  font-size: 500%;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Parisienne', cursive
+
+}
+h2{
+  color: #11999E
+  font-size: 40px;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+}
+h3{
+  color: #11999E;
+  font-family: 'Oswald', sans-serif;
+}
+h4{
+
+  font-family: 'Oswald', sans-serif;
+}
+
+.topcloud{
+  position: absolute;
+  right: 300px;
+  top: 80px;
+}
+.bottomcloud{
+  position: absolute;
+  left: 150px;
+  bottom: 450px;
+}
+.works{
+  text-align:left;
+  background-color: #C1FFD7
+}
+.imagecenter{
+  padding-top: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.btn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+  background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+  text-decoration: none;
+}
+hr{
+  background-color:white;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width:10%;
+}
+.bottom-container{
+  background-color: #C1FFD7;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+a{
+  font-family: 'Scheherazade New', serif;
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color:#2A0944;
+}
+.copyright{
+  color: #11999E;
+  padding: 10px;
+  font-size: 23px;
+}
